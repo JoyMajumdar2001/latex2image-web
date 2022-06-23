@@ -144,7 +144,7 @@ function getLatexTemplate(equation) {
     \\usepackage[utf8]{inputenc}
     \\thispagestyle{empty}
     \\begin{document}
-    ${equation}
+    equation
     \\end{document}`;
 }
 
